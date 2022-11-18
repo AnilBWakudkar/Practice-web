@@ -15,9 +15,9 @@ const Blog=()=>{
 
       </div>
     </section>
-    {/* <!-- End Blog Section -->
 
-    <!-- ======= Blog Section ======= --> */}
+
+    {/* <!-- ======= Blog Section ======= --> */} 
     <section id="blog" className="blog">
       <div className="container" data-aos="fade-up">
 

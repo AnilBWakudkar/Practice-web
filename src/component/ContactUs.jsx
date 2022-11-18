@@ -7,7 +7,7 @@ const ContactUs=()=>{
         <div className="d-flex justify-content-between align-items-center">
           <h2>Contact</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            {/* <li><a href="index.html">Home</a></li> */}
           
             <li><h1>Contact</h1></li>
           </ol>
